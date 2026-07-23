@@ -12,10 +12,6 @@
   <a href="https://www.linkedin.com/in/nada-ben-farhat-01877b285"><img src="https://img.shields.io/badge/LinkedIn-Nada--Ben--Farhat-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:nadafarhat396@gmail.com"><img src="https://img.shields.io/badge/Mail-nadafarhat396-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nada-ben-farhat-01877b285"><img src="https://img.shields.io/badge/LinkedIn-Nada--Ben--Farhat-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
