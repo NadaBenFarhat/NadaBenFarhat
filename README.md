@@ -3,7 +3,16 @@
 <h3 align="center">Embedded Systems & AI Engineer | Robotics Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+AI+%7C+Robotics;EEA+Graduate+-+ISSAT+Sousse+(Highest+Honors);Passionate+about+Embedded+AI+%26+Robotics" alt="Typing SVG" />
+  <img >
+
+src="https://readme-typing-svg.demolab.com
+?font=Fira+Code&size=20&pause=1000&color=
+1E3C72&center=true&vCenter=true&width=600&
+lines=Embedded+Systems+%7C+AI+
+%7C+Robotics;EEA+Graduate+
+-+ISSAT+Sousse+(Highest+Honors); Passionate+abo
+ut+Embedded+AI+%26+Robotics" alt="Typing
+SVG"/>
 </p>
 
 <p align="center">
