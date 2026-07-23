@@ -15,7 +15,11 @@
 
 ### 👋 About Me
 
-🎓 Graduated with a **Licence in EEA** (Electronics, Energy & Automation) — specialization in **Embedded Systems**, ISSAT Sousse, Tunisia (2026) — **Highest Honors**
+🎓 Graduate with a **Bachelor's Degree in
+Electrical, Electronics and Automation
+Engineering (EEA)**- specialization in
+**Embedded Systems**, from **ISSAT Sousse,
+Tunisia (2026) — **Highest Honors**
 🤖 Passionate about **robotics**, **embedded AI**, and **IoT**
 🎯 Looking for an **engineering / master's program in biomedical instrumentation** abroad
 🌍 Open to internships, work-study programs, and collaborations in robotics / AI / embedded systems
@@ -82,5 +86,3 @@ Smart lock system combining facial recognition with a card-based unlocking mecha
 ---
 
 <p align="center">💬 Feel free to reach out for collaborations in robotics, AI, or embedded systems!</p>
-EOF
-echo done
