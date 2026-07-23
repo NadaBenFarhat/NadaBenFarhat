@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
+
 <h1 align="center">Hi 👋, I'm Nada Ben Farhat</h1>
 <h3 align="center">Embedded Systems & AI Engineer | Robotics Enthusiast 🤖</h3>
 
