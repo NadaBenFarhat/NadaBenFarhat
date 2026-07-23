@@ -2,17 +2,14 @@
 <h1 align="center">Hi 👋, I'm Nada Ben Farhat</h1>
 <h3 align="center">Embedded Systems & AI Engineer | Robotics Enthusiast 🤖</h3>
 
-<p align="center">
-  <img >
 
-src="https://readme-typing-svg.demolab.com
-?font=Fira+Code&size=20&pause=1000&color=
-1E3C72&center=true&vCenter=true&width=600&
-lines=Embedded+Systems+%7C+AI+
-%7C+Robotics;EEA+Graduate+
--+ISSAT+Sousse+(Highest+Honors); Passionate+abo
-ut+Embedded+AI+%26+Robotics" alt="Typing
-SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+AI+%7C+Robotics;EEA+Graduate+-+ISSAT+Sousse+(Highest+Honors);Passionate+about+Embedded+AI+%26+Robotics" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:nadafarhat396@gmail.com"><img src="https://img.shields.io/badge/Mail-nadafarhat396-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nada-ben-farhat-01877b285"><img src="https://img.shields.io/badge/LinkedIn-Nada--Ben--Farhat-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
