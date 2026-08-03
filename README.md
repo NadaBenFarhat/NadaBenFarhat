@@ -70,6 +70,15 @@ Autonomous vehicle that detects fire/gas, alerts the client automatically, and e
 Smart lock system combining facial recognition with a card-based unlocking mechanism.
 
 ---
+ 
+### 🎯 What I'm Looking For
+ 
+- 🌍 **Master's / Engineering program** in Biomedical Instrumentation or Embedded Systems abroad
+- 💼 **Internships or work-study (alternance)** in embedded AI, robotics, or IoT
+- 🤝 **Collaborations** on open-source embedded / edge AI projects
+- 📩 Open to relocating internationally — feel free to reach out!
+
+---
 
 ### 📊 GitHub Stats
 
