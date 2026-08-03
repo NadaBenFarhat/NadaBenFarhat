@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Nada Ben Farhat</h1>
 <h3 align="center">Embedded Systems & AI Engineer | Robotics Enthusiast 🤖</h3>
 
@@ -17,11 +16,7 @@
 
 ### 👋 About Me
 
-🎓 Graduate with a **Bachelor's Degree in
-Electrical, Electronics and Automation
-Engineering (EEA)**- specialization in
-**Embedded Systems**, from **ISSAT Sousse,
-Tunisia (2026) — **Highest Honors**
+🎓 Bachelor's Degree in **Electronics, Electrical Engineering and Automation (EEA)**, specialization in **Embedded Systems**, from **ISSAT Sousse, Tunisia (2026)** — **Highest Honors**
 🤖 Passionate about **robotics**, **embedded AI**, and **IoT**
 🎯 Looking for an **engineering / master's program in biomedical instrumentation** abroad
 🌍 Open to internships, work-study programs, and collaborations in robotics / AI / embedded systems
@@ -57,13 +52,13 @@ Tunisia (2026) — **Highest Honors**
 
 ### 📚 Education
 
-**ISSAT Sousse** — Licence Appliquée in EEA, Embedded Systems track *(2023 – 2026)* — Highest Honors (Mention Excellente)
+**ISSAT Sousse** — Bachelor's Degree in Electronics, Electrical Engineering and Automation (EEA), Embedded Systems track *(2023 – 2026)* — Highest Honors
 
 ---
 
 ### 💼 Experience & Key Projects
 
-**DLS Company (London)** — Remote internship: AI-based mobile app for fitness posture analysis
+**Deep Learn Strategies Limited (DLS)** — Final year project: AI-based mobile app for fitness posture analysis
 
 **🏋️ AI Fitness Coaching Robot** *(Final Year Project)*
 Gym-coaching robot built on **NVIDIA Jetson**, real-time posture analysis, web dashboard, voice feedback and on-robot local feedback.
