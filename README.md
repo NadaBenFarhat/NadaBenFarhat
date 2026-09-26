@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nada Ben Farhat</h1>
-<h3 align="center">Embedded Systems & AI Engineer | Robotics Enthusiast 🤖</h3>
-
+<h3 align="center">Embedded Systems & AI Developer | Robotics, Computer Vision & IoT 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+AI+%7C+Robotics;EEA+Graduate+-+ISSAT+Sousse+(Highest+Honors);Passionate+about+Embedded+AI+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+AI+%7C+Robotics;EEA+Graduate+-+ISSAT+Sousse+(Highest+Honors);Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,15 +10,14 @@
   <a href="https://www.linkedin.com/in/nada-ben-farhat-01877b285"><img src="https://img.shields.io/badge/LinkedIn-Nada--Ben--Farhat-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
 ---
 
 ### 👋 About Me
 
 🎓 Bachelor's Degree in **Electronics, Electrical Engineering and Automation (EEA)**, specialization in **Embedded Systems**, from **ISSAT Sousse, Tunisia (2026)** — **Highest Honors**
-🤖 Passionate about **robotics**, **embedded AI**, and **IoT**
-🎯 Looking for an **engineering / master's program in biomedical instrumentation** abroad
-🌍 Open to internships, work-study programs, and collaborations in robotics / AI / embedded systems
+🤖 Passionate about **robotics**, **embedded AI**, and **computer vision**
+💼 Open to **full-time opportunities** in Embedded Systems, AI & Robotics — currently pursuing a Research Master's at ENISo alongside
+🌍 Open to relocating internationally — internships, work-study, or full-time roles
 
 ---
 
@@ -27,41 +25,110 @@
 
 #### 💻 Programming & Tools
 
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 #### 🧠 AI & Computer Vision
 
+
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+
+
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
 #### ⚡ Embedded Systems & IoT
 
+
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+
+
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+
+
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+
+
+
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+
+
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+
 
 ---
 
 ### 📚 Education
 
 **ISSAT Sousse** — Bachelor's Degree in Electronics, Electrical Engineering and Automation (EEA), Embedded Systems track *(2023 – 2026)* — Highest Honors
+**ENISo** — Research Master's, Advanced Techniques in Electrical Engineering *(2026 – present)*
 
 ---
 
 ### 💼 Experience & Key Projects
 
-**Deep Learn Strategies Limited (DLS)** — Final year project: AI-based mobile app for fitness posture analysis
+**AI/ML Intern — Deep Alpha Strategies Limited (DAS)**, London (remote) *(Feb–May 2026)*
+Final year project: AI-based mobile app for fitness posture analysis
+
+**Consultant/Developer — AAI** *(current)*
+Energy & data infrastructure projects
 
 **🏋️ AI Fitness Coaching Robot** *(Final Year Project)*
 Gym-coaching robot built on **NVIDIA Jetson**, real-time posture analysis, web dashboard, voice feedback and on-robot local feedback.
+
+**✋ AI Hand-Gesture Interface Controller**
+Real-time hands-free app control via webcam using **Python, OpenCV & MediaPipe** (selfie segmentation, hand landmark tracking) — demoed controlling YouTube and browser navigation by gesture.
 
 **🔥 Autonomous Fire & Gas Detection Vehicle**
 Autonomous vehicle that detects fire/gas, alerts the client automatically, and extinguishes fire using water.
@@ -70,13 +137,13 @@ Autonomous vehicle that detects fire/gas, alerts the client automatically, and e
 Smart lock system combining facial recognition with a card-based unlocking mechanism.
 
 ---
- 
+
 ### 🎯 What I'm Looking For
- 
-- 🌍 **Master's / Engineering program** in Biomedical Instrumentation or Embedded Systems abroad
-- 💼 **Internships or work-study (alternance)** in embedded AI, robotics, or IoT
+
+- 💼 **Full-time roles** in Embedded Systems, AI, or Robotics (Tunisia or abroad)
+- 🌍 Open to **relocating internationally** for the right opportunity
 - 🤝 **Collaborations** on open-source embedded / edge AI projects
-- 📩 Open to relocating internationally — feel free to reach out!
+- 📩 Feel free to reach out!
 
 ---
 
