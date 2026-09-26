@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="banner" />
+  <img src="banner.png" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nada Ben Farhat</h1>
