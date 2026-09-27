@@ -20,7 +20,9 @@
 
 🎓 Bachelor's Degree in **Electronics, Electrical Engineering and Automation (EEA)**, specialization in **Embedded Systems**, from **ISSAT Sousse, Tunisia (2026)** — **Highest Honors**
 🤖 Passionate about **robotics**, **embedded AI**, and **computer vision**
+
 💼 Open to **full-time opportunities** in Embedded Systems, AI & Robotics — currently pursuing a Research Master's at ENISo alongside
+
 🌍 Open to relocating internationally — internships, work-study, or full-time roles
 
 ---
